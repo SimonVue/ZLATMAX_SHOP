@@ -1,4 +1,4 @@
-# ZLATMAX_SHOP
+# ZLATMAX_SHOP (In progress)
 Интернет магазин златоусовских ножей
 https://simonvue.github.io/ZLATMAX_SHOP/
 
